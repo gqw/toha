@@ -9,7 +9,7 @@ other = "博文"
 other = "目录"
 
 [at]
-other = "at"
+other = "@"
 
 [resume]
 other = "我的简历"
@@ -77,29 +77,29 @@ other = "查看更多"
 [show_less]
 other = "显示较少"
 
-# [responsibilities]
-# other = "Responsibilities:"
+[responsibilities]
+other = "Responsibilities:"
 
-# [present]
-# other = "Present"
+[present]
+other = "Present"
 
-# [comments_javascript]
-# other = "Please enable JavaScript to view the"
+[comments_javascript]
+other = "Please enable JavaScript to view the"
 
-# [comments_by]
-# other = "comments powered by"
+[comments_by]
+other = "comments powered by"
 
-# [read]
-# other = "Read"
+[read]
+other = "Read"
 
-# [project_star]
-# other = "Star"
+[project_star]
+other = "Star"
 
-# [project_details]
-# other = "Details"
+[project_details]
+other = "Details"
 
-# [err_404]
-# other = "The page you are looking for is not there yet."
+[err_404]
+other = "The page you are looking for is not there yet."
 
 [more]
 other = "更多的"
